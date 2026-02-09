@@ -13,7 +13,8 @@ A real-time stock market news dashboard built with Streamlit. Fetches latest fin
 
 ## Screenshot
 
-![NYSE News Center]<img width="1861" height="703" alt="image" src="https://github.com/user-attachments/assets/58e16eea-2faf-4d03-b5cb-98a1193ea4aa" />
+NYSE News Center <img width="1883" height="847" alt="image" src="https://github.com/user-attachments/assets/049d3979-60d7-43cf-b50c-057e1c03f792" />
+
 
 
 ## Installation
